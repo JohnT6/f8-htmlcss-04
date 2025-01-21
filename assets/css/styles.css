@@ -1017,6 +1017,10 @@ a {
     padding: 30px 28px 43px;
 }
 
+.pricing-item--active {
+    box-shadow: 0px 20px 44px 0px rgba(195, 108, 22, 0.06);
+}
+
 .pricing-item__type {
     color: #ff5b2e;
     font-size: 1.2rem;
