@@ -1084,7 +1084,6 @@ a {
 .review__inner {
     display: flex;
     align-items: center;
-    overflow: ;
     column-gap: 44px;
 }
 
